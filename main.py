@@ -19,3 +19,4 @@ for i in range(0, len(x)):  # 3628800
             q += 1
 
 print("iteracii", n)
+#n = 81648000
